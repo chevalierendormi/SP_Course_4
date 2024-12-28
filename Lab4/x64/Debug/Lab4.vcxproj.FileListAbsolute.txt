@@ -1,0 +1,3 @@
+C:\pokatak\sp_rob\lab4\Lab4\x64\Debug\gtest.pdb
+C:\pokatak\sp_rob\lab4\Lab4\x64\Debug\gtest_main.pdb
+C:\pokatak\sp_rob\lab4\Lab4\Lab4\x64\Debug\Lab4.vcxproj.Up2Date
